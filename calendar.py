@@ -1,3 +1,7 @@
+"""
+CODIGUINHO ANTIGO!
+"""
+
 # Calendar
 #Programa que calcula se o ano é bissexto e imprime o calendário do mês.
 init=1
